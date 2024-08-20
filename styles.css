@@ -37,7 +37,7 @@ p {
 
 .ontopofphoto {
   display: flex;
-  height: 100vh;
+  height: 70vh;
   background-attachment: fixed;
   background-image: url("./images/main-splash-image.jpg");
   background-position: right;
